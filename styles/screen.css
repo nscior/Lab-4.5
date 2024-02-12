@@ -53,7 +53,10 @@ img.about {
     opacity: 0.5;
 }
 
-/* main {
+/* 
+Notes from video
+
+main {
     display: grid;
     grid-template-column: 200px 200px 200px; depending on how many values = how many columns show up
     gap: px;
@@ -70,7 +73,8 @@ img.about {
 .module {
     grid-column: 1 / 3;
     grid-row: 3 / 1;
-} */
+} 
+*/
 
 .cardGrid {
     display: grid;
