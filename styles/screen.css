@@ -87,8 +87,9 @@ main {
 .card {
     background: #b5b5b5;
     text-align: center;
-    justify-content: center;
+    justify-content: end;
     border-radius: 5px;
+    color: black;
 }
 
 .cards {
@@ -97,6 +98,7 @@ main {
 }
 
 .cardSun {
+    color: black;
     background: #b5b5b5;
     width: 200px;
     height: 320px;
